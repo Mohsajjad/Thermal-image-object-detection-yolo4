@@ -1,0 +1,5 @@
+classes= 2
+train  = /content/darknet/data/train.txt  
+valid  = /content/darknet/data/test.txt  
+names = /content/darknet/data/obj.names  
+backup = /content/drive/MyDrive/Yolo_V4/backup
